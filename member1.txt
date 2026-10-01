@@ -1,0 +1,5 @@
+Member 1: Trap frame inspection
+trapno = 32
+eip = 0x80103c54
+esp = 0x10094
+eflags = 0x292
